@@ -270,4 +270,3 @@ plt.xlabel('Year')
 plt.ylabel('Population (billion)')
 plt.show()
 
-# https://www.kaggle.com/datasets/benitoitelewuver/population-and-demography-dataset/data
