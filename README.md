@@ -2,6 +2,8 @@
 
 ![Population](https://github.com/SolitaryEgo/Analysis-of-Population-and-Demography/blob/main/dataset-cover.png)
 
+**该数据集包含 18,944 个条目，列有实体（国家/地区）、代码（ISO 代码）、年份和人口估计数。每行代表特定国家和年份的人口估计数，范围从 1950 年到最近几年，反映了全球人口随时间的变化。 
+
 ## 数据说明
 
 
